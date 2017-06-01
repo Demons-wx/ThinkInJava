@@ -1,7 +1,335 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="714b37a0-4c7c-4eaf-b0b5-a10ebb801994" name="Default" comment="" />
+    <list default="true" id="714b37a0-4c7c-4eaf-b0b5-a10ebb801994" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/AtomicityIntegerTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/AtomicityIntegerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/AtomicityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/AttemptLocking$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/AttemptLocking.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/BasicThreads.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/CachedThreadPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/CallableDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/CaptureUncaughtException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/CircularSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ExceptionThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ExceptionThread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/FixedThreadPool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/HandlerThreadFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerRunnable1$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerRunnable1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerRunnable2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerRunnable2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerThread1$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerThread1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerThread2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/InnerThread2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/IntGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/Joiner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/Joining.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/LiftOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/MainThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/MoreBasicThreads.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/MyUncaughtExceptionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ResponsiveUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SelfManaged.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SerialNumberChecker$SerialChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SerialNumberChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SerialNumberGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SettingDefaultHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SimplePriorities.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SimpleThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SingleThreadExecutor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/Sleeper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/SleepingTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/TaskWithResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ThreadMethod$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ThreadMethod.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/ThreadVariations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/UnresponsiveUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Blocked2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Blocked3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/BlockedMutex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/CloseResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Count.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Entrance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/IOBlocked.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Interrupting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/Interrupting2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/InterruptingIdiom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/MultiLock$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/MultiLock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/NIOBlocked.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/NIOInterruption.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/NeedsCleanup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/OrnamentalGarden.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/SleepBlocked.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/SynchronizedBlocked$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/cancel/SynchronizedBlocked.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/CriticalSection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/ExplicitCriticalSection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/ExplicitPairManager1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/ExplicitPairManager2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/Pair$PairVluesNotEqualException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/PairChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/PairManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/PairManager1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/PairManager2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/critical/PairManipulator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/ADaemon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/Daemon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/DaemonSpawn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/DaemonThreadFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/Daemons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/DaemonsDontRunFinally.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/SimpleDaemons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/util/DaemonFromFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/daemon/util/DaemonThreadPoolExecutor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/eventest/AtomicEvenGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/eventest/EvenChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/eventest/EvenGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/eventest/MutexEvenGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/eventest/SynchronizedEvenGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/Consumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/Coop1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/Coop2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/E06_SleppingTask2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/E21_ThreadCooperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/E24_ProducerConsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/FlowQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/Item.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/Producer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/exercise/SleppingTask2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/syncobject/DualSynch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/syncobject/SyncObject$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/syncobject/SyncObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/threadlocal/Accessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/threadlocal/ThreadLocalVariableHolder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/threadlocal/ThreadLocalVariableHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/Blocker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/NotifyVsNotifyAll$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/NotifyVsNotifyAll.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/Task.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/Task2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/productandconsumer/Chef.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/productandconsumer/Meal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/productandconsumer/Restaurant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/productandconsumer/WaitPerson.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/Car2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOMatic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOMatic2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOff2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/concurrency/wait/waxomatic/WaxOn2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/CollectionMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/UnSupported.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/ListPerformance$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/ListPerformance$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/ListPerformance$ListTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/ListPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/TestParam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/chosingcontainers/Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/CollectionData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/CollectionDataGeneration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/CollectionDataTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/FillingLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/Government.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/Letters$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/Letters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/MapData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/MapDataTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/fill/StringAdress.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/CountedString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/Groundhog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/Groundhog2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/Individual.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/IndividualTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/MapEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/Prediction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/SimpleHashMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/SlowMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/SpringDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/hashcode/StringHashCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/list/Lists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/map/AssociativeArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/map/LinkedHashMapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/map/SortedMapDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/Deque.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/DequeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/QueueBehavior$Gen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/QueueBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/ToDoList$ToDoItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/queue/ToDoList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/set/HashType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/set/SetType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/set/TreeType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/set/TypesForSets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/CollectionData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/CountingIntegerList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/CountingMapData$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/CountingMapData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries$FlyweightMap$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries$FlyweightMap$EntrySet$Iter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries$FlyweightMap$EntrySet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries$FlyweightMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Countries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/containers/util/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Activity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Burrito.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/CartoonCharacter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/EnumClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/EnumImplementation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Enums.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Explore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Food$Appetizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Food$Coffee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Food$Dessert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Food$MainCourse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Food.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/NonEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/OzWitch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/RandomTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Reflection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Search.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Shrubbery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Signal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/SpaceShip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/Spiciness.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/TrafficLight.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/TypeOfFood.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/enumerated/UpcastEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/AddingGroups.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Apple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/ApplesAndOrangesWithGenerics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/ApplesAndOrangesWithoutGenerics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/AsListInference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Braeburn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/ContainerMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Crusty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Fuji.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Gala.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/GenericsAndUpcasting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/GrannySmith.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Heavy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Light.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/LinkedListFeatures.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/ListFeatures.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Orange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Powder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/PrintingContainers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/SimpleCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Slush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/Snow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/CollectionSequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/CollectionSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/InterfaceVsIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/NonCollectionSequence$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/NonCollectionSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/collection_iterator/PetSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/ArrayIsNotIterable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/EnvironmentVariables.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/ForEachCollections.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/IterableClass$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/IterableClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/AdapterMethodIdiom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/ModifyingArraysList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/MultiIterableClass$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/MultiIterableClass$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/MultiIterableClass$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/MultiIterableClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/ReversibleArrayList$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/ReversibleArrayList$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/foreach/adapter/ReversibleArrayList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/iterator/CrossContainerItaration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/iterator/ListIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/iterator/SimpleIteration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/map/MapOfList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/map/PetMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/map/Statistics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/queue/PriorityQueueDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/queue/QueueDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/set/SetOfInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/set/SetOperations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/set/SortedSetOfInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/set/UniqueWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/stack/Stack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/stack/StackCollision.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/holding/stack/StackTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/initialization/TestStatic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/ChangeSystemOut.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/Echo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/MakeDirectories.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/Redirecting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirList2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirList2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirList3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/listfiles/DirList3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/AvailableCharSets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/BufferToText.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/ChannelCopy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/GetChannel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/GetData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/IntBufferDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/LargeMappedFiles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO$Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/MappedIO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/TransferTo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/UsingBuffers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/nio/ViewBuffers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/BasicFileOutput.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/BufferedInputFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/FileOutputShortcut.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/FormattedMemoryInput.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/MemoryInput.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/StoringAndRecoveringData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/TestEOF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/representativeexp/UsingRandomAccessFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/BinaryFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/Directory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/Directory$TreeInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/Directory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/DirectoryDemo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/PPrint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/ProcessFiles$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/ProcessFiles$Strategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/ProcessFiles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/io/util/TextFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/object/ShowProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Cymric.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/EgyptianMau.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/ForNameCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Hamster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Individual.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/LiteralPetCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Manx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Mouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Mutt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Pet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/PetCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Pets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Pug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Rat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/online/wangxuan/typeinfo/pets/Rodent.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/../Spittr/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +347,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -64,6 +395,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -119,7 +451,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -615,47 +946,48 @@
       <updated>1490878804571</updated>
       <workItem from="1490878813488" duration="472000" />
       <workItem from="1490879306520" duration="1604000" />
+      <workItem from="1496318537960" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2076000" />
+    <option name="totallyTimeSpent" value="2134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967606" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2507837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967606" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -681,19 +1013,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Spittr/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spittr/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/online/wangxuan/containers/fill/CollectionDataGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,6 +1025,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/online/wangxuan/containers/CollectionMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
