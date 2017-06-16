@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class Tester<C> {
 	public static int fieldWidth = 8;
-	public static TestParam[] defaultParams = TestParam.array(10, 5000, 100, 5000, 1000, 5000, 10000, 500);
+	public static TestParam[] defaultParams = TestParam.array(10, 500000, 100, 5000, 1000, 5000, 10000, 500, 100000, 50, 1000000, 50);
 	
 	/* 如果需要执行特殊的初始化，可以覆盖initialize()方法。
 	 * 这将产生具有恰当尺寸的容器对象---你可以修改现有的容器对象，或者创建新的容器对象。 */

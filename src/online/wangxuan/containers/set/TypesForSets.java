@@ -92,6 +92,6 @@ class TreeType extends SetType implements Comparable<TreeType> {
 	 * 无符号的int时才能正确工作。对于Java的有符号int，它就会出错，因为int不够大，不足以表现两个有符号int的差。
 	 * 例如i是很大的正整数，j是很大的负整数，i-j就会溢出并且返回负值了，这就不正确了。 */
 	public int compareTo(TreeType o) {
-		return (o.i < i ? -1 : (o.i == i ? 0 : i));
+		return (o.i < i ? -1 : (o.i == i ? 0 : 1));
 	}
 }
