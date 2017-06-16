@@ -1,4 +1,4 @@
-package online.wangxuan.enumerated;
+package online.wangxuan.enumerated.menu;
 
 public interface Food {
 
