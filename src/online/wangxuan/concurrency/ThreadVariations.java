@@ -129,6 +129,28 @@ class InnerRunnable2 {
 	}
 }
 
+
+// lambda形式
+class InnerRunnable3 {
+    private int countDown = 5;
+    private Thread t;
+    public InnerRunnable3(String name) {
+        t = new Thread(() -> {
+            try {
+                while (true) {
+                    System.out.println(this);
+                    if (--countDown == 0) return;
+                    TimeUnit.MILLISECONDS.sleep(10);
+                }
+            } catch (InterruptedException e) {
+                System.out.println("sleep() interrupted");
+            }
+        }, name);
+        t.start();
+    }
+}
+
+
 /**
  * <p>ThreadMethod展示了在方法内部如何创建线程</p>
  * 当你准备好运行线程时，就可以调用这个方法，而在线程开始之后，该方法将返回。

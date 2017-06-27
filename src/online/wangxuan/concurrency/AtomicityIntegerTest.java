@@ -1,5 +1,6 @@
 package online.wangxuan.concurrency;
 
+import java.sql.Time;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.concurrent.ExecutorService;
@@ -34,6 +35,7 @@ public class AtomicityIntegerTest implements Runnable {
 				System.exit(0);
 			}
 		}, 5000); // Terminate after 5s
+
 		ExecutorService exec = Executors.newCachedThreadPool();
 		AtomicityIntegerTest ait = new AtomicityIntegerTest();
 		exec.execute(ait);
