@@ -79,7 +79,7 @@ public class Interrupting {
 	private static ExecutorService exec = Executors.newCachedThreadPool();
 	/* 如果你在Executor上调用shutdownNow()，那么它将发送一个interrupt()调用给它
 	 * 启动的所有线程。但是如果你只希望中断某个单一任务，如果使用Executor，那么调用
-	 * submit()而不是executor()来启动任务，就可以持有该任务的上下文。它会返回一个泛型
+	 * submit()而不是execute()来启动任务，就可以持有该任务的上下文。它会返回一个泛型
 	 * Future<?>，持有这种Future的关键在于你可以在其上调用cancel()，并因此使用它来
 	 * 中断某个特定任务。 */
 	static void test(Runnable r) throws InterruptedException {

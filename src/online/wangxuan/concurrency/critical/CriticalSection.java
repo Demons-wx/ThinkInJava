@@ -172,7 +172,7 @@ public class CriticalSection {
 		exec.execute(pcheck1);
 		exec.execute(pcheck2);
 		try {
-			TimeUnit.MILLISECONDS.sleep(500);
+			TimeUnit.MILLISECONDS.sleep(1000);
 		} catch (InterruptedException e) {
 			System.out.println("Sleep Interrupted");
 		}

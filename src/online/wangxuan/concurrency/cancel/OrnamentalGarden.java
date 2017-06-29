@@ -74,11 +74,13 @@ class Entrance implements Runnable {
 		return count.value();
 	}
 	public static int sumEntrances() {
-		int sum = 0;
+		/*int sum = 0;
 		for (Entrance entrance : entrances) {
 			sum += entrance.getValue();
 		}
-		return sum;
+		return sum;*/
+		// java8 lambda
+		return entrances.stream().map(entrance -> entrance.getValue()).reduce(0, (acc, element) -> acc + element);
 	}
 }
 
