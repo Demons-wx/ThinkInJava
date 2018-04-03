@@ -54,6 +54,7 @@ class TaskPortion implements Runnable {
         print(this + "completed");
     }
 
+    @Override
     public String toString() {
         return String.format("%1$-3d", id);
     }
@@ -78,6 +79,7 @@ class WaitingTask implements Runnable {
         }
     }
 
+    @Override
     public String toString() {
         return String.format("WaitingTask %1$-3d", id);
     }
